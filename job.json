@@ -1,0 +1,17 @@
+{
+    "name": [
+        "Jason",
+        "Mike",
+        "Karen"
+    ],
+    "location": [
+        "California",
+        "New Jersey",
+        "Denver"
+    ],
+    "Job": [
+        "Software Engineer",
+        "Chef",
+        "Businessman"
+    ]
+}
